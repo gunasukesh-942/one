@@ -12,6 +12,7 @@
 	<h2 style="color: black; font-size: 40px;" align="center"> removing parameters and checking poll scm  </h2>
 	<h2 style="color: black; font-size: 40px;" align="center"> deploying in slave -1  </h2>
 	<h2 style="color: black; font-size: 40px;" align="center"> final deploying in slave -1 with parameters </h2>
+	<h2 style="color: black; font-size: 40px;" align="center"> checking for multineline string parameter </h2>
 	
 	
 	
