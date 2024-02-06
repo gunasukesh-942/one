@@ -4,7 +4,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
 	<h2 style="color: bule; font-size: 30px;" align="center">WELCOME TO FRONTLINES MEDIA</h2>
 	<h2 style="color: yellow; font-size: 30px;" align="center">KCPD Performance!! </h2>
-	<h2 style="color: yellow; font-size: 30px;" align="center">checking input function </h2>	
+		
 
 <h2 style="color: yellow; font-size: 30px;" align="center">fuck off </h2>
 	
