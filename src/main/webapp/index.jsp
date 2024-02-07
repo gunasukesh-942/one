@@ -6,7 +6,7 @@
 	<h2 style="color: yellow; font-size: 30px;" align="center">KCPD Performance!! </h2>
 	<h2 style="color: black; font-size: 30px;" align="center">KCPD Performance!! </h2>
 
-<h2 style="color: yellow; font-size: 30px;" align="center">fuck off </h2>
+
 	
 	
 	
