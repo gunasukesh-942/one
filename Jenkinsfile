@@ -12,7 +12,7 @@ pipeline {
                 sh " mvn clean package"
             }
         }
-        stage('deploy') {
+        stage('deploy application') {
             steps {
                 echo 'deployed successfully!!'
             }
