@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: javacontainer
-        image: sukeshguna942/java:project
+        image: sukeshguna942/java1:project
         ports:
         - containerPort: 8080
 ---
